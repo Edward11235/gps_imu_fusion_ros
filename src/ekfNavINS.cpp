@@ -22,7 +22,7 @@ Copyright 2011 Regents of the University of Minnesota. All rights reserved.
 Original Author: Adhika Lie
 */
 
-#include "gps_imu_fusion_ros/ekfNavINS.h"
+#include "ekfNavINS.h"
 #include <cmath>
 #include <tuple>
 

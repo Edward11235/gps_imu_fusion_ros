@@ -4,7 +4,7 @@
 #include <sensor_msgs/MagneticField.h>
 #include <geometry_msgs/TwistStamped.h>
 #include <std_msgs/Float64MultiArray.h>
-#include "gps_imu_fusion_ros/ekfNavINS.h"
+#include "ekfNavINS.h"
 
 #include <iostream>
 #include <tuple>
